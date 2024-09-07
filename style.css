@@ -10,7 +10,7 @@ body {
   align-items: center;
   height: 100vh;
   column-gap: 40px;
-  flex-wrap: wrap;
+ 
 }
 .convertion {
   border: 2px solid red;

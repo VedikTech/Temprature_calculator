@@ -1,0 +1,7 @@
+@media (max-width: 600px){
+    .Cal_box{
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
